@@ -1,1 +1,1 @@
-# Personal-Finance
+The Personal Finance Dashboard helps you see your income, expenses, savings, and investments clearly. It lets you track spending, set goals, and use simple charts to manage your money better. With easy-to-understand charts and graphs, it makes managing your finances simpler and helps you make better money decisions. This tool aims to improve your financial health and boost your confidence in managing your finances.
